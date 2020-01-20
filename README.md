@@ -2,8 +2,6 @@
 
 ## Shortens long URL to short and simple URLs.
 
----
-
 Frontend:
 ![Frontend page](images/frontend.PNG "Frontend image")
 
